@@ -2,9 +2,27 @@
 The Expanse Universe Mod Files and Scripts
 
 
-Mod List
+The Expanse Core
+Contains:
+Admin Commands
+
+The Expanse Pack
+Contains:
+
+The Expanse Economy
+Contains: Economy
+
+The Expanse Planets
+Contains:
+Mars
+Earth
+Moon
+Asteroid (WIP)
 
 
 
 
 Script List
+
+
+Credits:
